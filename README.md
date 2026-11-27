@@ -1,4 +1,4 @@
-# 🧠 tinynn-cpp — a neural network from scratch in C++17
+# 🧠 tinynn-cpp — a neural network from scratch in C++
 
 A small, header-only, dependency-free library that implements a **fully-connected neural network with
 backpropagation** to understand deep learning from first principles: matrices, activations, loss,
